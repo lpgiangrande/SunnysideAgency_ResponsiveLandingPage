@@ -5,7 +5,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Screenshot & Live site url
 
-- Live Site URL: [https://www.sunnyside-agency-frontendmentor.netlify.app)
+- Live Site URL: [https://sunnyside-agency-frontendmentor.netlify.app/)
 
 ![](screencapture-desktop.png)
 ![](screencapture-mobile.png)
